@@ -126,11 +126,12 @@ Driven and detail-oriented **Computer Science & Engineering** undergraduate with
 
 ---
 
+
 ### **GitHub Analytics**
 
 <div align="center">
-  <img src="https://stats.deepsource.io/user/rashmiranjan37" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=rashmiranjan37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rashmiranjan37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rashmiranjan37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
