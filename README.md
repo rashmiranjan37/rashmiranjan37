@@ -129,12 +129,12 @@ Driven and detail-oriented **Computer Science & Engineering** undergraduate with
 ### **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjan37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&icon_color=a855f7&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjan37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" height="165" />
+  <img src="https://stats.deepsource.io/user/rashmiranjan37" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=rashmiranjan37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rashmiranjan37&theme=tokyonight&hide_border=true&background=0d1117&ring=7928ca&fire=a855f7&currStreakLabel=a855f7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmiranjan37&theme=react-dark&hide_border=true&bg_color=0d1117&color=7928ca&line=a855f7&point=ffffff" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
