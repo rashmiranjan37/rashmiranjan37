@@ -15,12 +15,12 @@
   <a href="https://passwordshield.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7928ca?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rashmi-ranjan-ray-7989532a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rayrashmiranjan59@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Rashmi-ranjan-ray"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/rashmiranjan37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Rashmi-ranjan-ray&color=7928ca&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rashmi-ranjan-ray?color=4c1d95&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Rashmi-ranjan-ray?color=7928ca&style=flat-square&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=rashmiranjan37&color=7928ca&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rashmiranjan37?color=4c1d95&style=flat-square&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rashmiranjan37?color=7928ca&style=flat-square&label=STARS" alt="Stars" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ Driven and detail-oriented **Computer Science & Engineering** undergraduate with
 
 <div align="center">
 
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.linkedin.com/posts/rashmi-ranjan-ray-7989532a0_geeksforgeeks-gfg-learning-activity-7490402724061106176-U8Gk"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
@@ -126,17 +126,17 @@ Driven and detail-oriented **Computer Science & Engineering** undergraduate with
 
 ---
 
-
 ### **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rashmi-ranjan-ray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rashmi-ranjan-ray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjan37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&icon_color=a855f7&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjan37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rashmi-ranjan-ray&theme=tokyonight&hide_border=true&background=0d1117&ring=7928ca&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rashmiranjan37&theme=tokyonight&hide_border=true&background=0d1117&ring=7928ca&fire=a855f7&currStreakLabel=a855f7" />
 </div>
+
 ---
 
 ### **Current Focus**
