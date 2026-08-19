@@ -126,12 +126,15 @@ Driven and detail-oriented **Computer Science & Engineering** undergraduate with
 
 ---
 
-
-### **GitHub Analytics**
+### **GitHub Analytics & Achievements**
 
 <div align="center">
-  <img src="https://github-readme-stats.deno.dev/api?username=rashmiranjan37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=rashmiranjan37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rashmiranjan37&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rashmiranjan37&theme=tokyonight&hide_border=true&background=0d1117&ring=7928ca&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </div>
 
 <div align="center">
