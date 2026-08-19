@@ -126,10 +126,10 @@ Driven and detail-oriented **Computer Science & Engineering** undergraduate with
 
 ---
 
-### **GitHub Analytics & Achievements**
+### **GitHub Analytics & Activity**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashmiranjan37&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
 </div>
 <br/>
 
